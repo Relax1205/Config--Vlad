@@ -1,4 +1,0 @@
-username: user
-hostname: shell
-vfs_path: vfs.zip
-startup_script: startup.sh
